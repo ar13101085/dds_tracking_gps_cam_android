@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "692569297505",
+    "firebase_url": "https://trackinggpscam.firebaseio.com",
+    "project_id": "trackinggpscam",
+    "storage_bucket": "trackinggpscam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692569297505:android:dbfb697460ee3853",
+        "android_client_info": {
+          "package_name": "com.aos.dds.trackinggpscam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692569297505-hb3sdaueikcm9e4359ge52aeequg0s8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aos.dds.trackinggpscam",
+            "certificate_hash": "99379e73ac5009a88fe589319957ce4e54251997"
+          }
+        },
+        {
+          "client_id": "692569297505-v1s8k5isred5vsrj5gpr5vnhhplfk42h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkcm9hpr_LrYKrV5GmnYCG2eNNDB_rH4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692569297505-v1s8k5isred5vsrj5gpr5vnhhplfk42h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
